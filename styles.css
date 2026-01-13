@@ -64,7 +64,7 @@ input {
 p {
   display: flex;
   flex-wrap: wrap;
-  gap: 4px 6px;
+  gap: 4px 8px;
   margin: 0;
 }
 
