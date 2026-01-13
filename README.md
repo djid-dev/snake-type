@@ -1,6 +1,6 @@
 # Snake Type Game 🐍
 
-Un juego minimalista de mecanografía diseñado para poner a prueba y mejorar tu velocidad y precisión al escribir.
+Un juego minimalista de mecanografía diseñado para poner a prueba y mejorar tu velocidad y precisión al escribir. Inspirado en [monkeytype](https://monkeytype.com)
 
 ## 🚀 Características
 
